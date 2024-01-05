@@ -1,7 +1,7 @@
 import openai
 
 # Set your OpenAI GPT-3 API key
-openai.api_key = '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'
+openai.api_key = 'API_KEY_ENTER_HERE'
 
 def chatgpt_conversation():
     conversation = []
